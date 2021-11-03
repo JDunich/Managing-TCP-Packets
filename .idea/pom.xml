@@ -1,0 +1,7 @@
+<dependency>
+    <groupId>uk.co.pervasive_intelligence.simulator</groupId>
+    <artifactId>protocol</artifactId>
+    <version>1.0</version>
+    <scope>system</scope>
+    <systemPath>${basedir}/lib/pcap4j-1.jar</systemPath>
+</dependency>
