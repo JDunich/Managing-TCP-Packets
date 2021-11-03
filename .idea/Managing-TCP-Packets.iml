@@ -11,5 +11,8 @@
     </content>
     <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.pcap4j:pcap4j-core:1.8.2" level="project" />
+    <orderEntry type="library" name="Maven: net.java.dev.jna:jna:5.3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.26" level="project" />
   </component>
 </module>
